@@ -1,6 +1,6 @@
 # primeiro_reposit-rio
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN5Z2wyeHE5bjNlZmZtanpxMzR5aWNxemE3OWJ5ODFwZnE4d3BkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Descrição do GIF">
+
 <p align="center">
   <img src="https://i.imgur.com/7f6RJrZ.png" alt="Banner Explorador do Código" width="700"/>
 </p>
