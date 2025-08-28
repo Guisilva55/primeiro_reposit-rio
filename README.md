@@ -74,6 +74,19 @@ class Explorador:
 explorador = Explorador()
 explorador.evoluir()
 
+
+       .       *       .       *       .       
+         *       .       *       .       *     
+   *       .       *       .       *       .   
+         .       *       .       *       .     
+   *       .       *       .       *       .   
+      *        .      *       .      *        
+           .          .          .            
+         .     *             *     .          
+            *       *     *       *           
+        *          . . . .          *         
+             *     *     *     *              
+          .         *   *         .           
  (| |)     
  (>.<)
  (\<3\)
