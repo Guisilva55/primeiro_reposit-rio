@@ -1,7 +1,7 @@
 # primeiro_reposit-rio
 
 
-<p align="center">
+
   <img src="https://i.imgur.com/7f6RJrZ.png" alt="Banner Explorador do Código" width="700"/>
 </p>
 
