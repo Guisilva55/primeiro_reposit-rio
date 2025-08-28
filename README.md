@@ -2,8 +2,6 @@
 
 
 
-  <img src="https://i.imgur.com/7f6RJrZ.png" alt="Banner Explorador do Código" width="700"/>
-</p>
 
 <h1 align="center">🚀 Explorador do Código: Missão Python 🐍</h1>
 
