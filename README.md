@@ -1,7 +1,6 @@
 # primeiro_reposit-rio
 
-
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN5Z2wyeHE5bjNlZmZtanpxMzR5aWNxemE3OWJ5ODFwZnE4d3BkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Descrição do GIF">
 
 <h1 align="center">🚀 Explorador do Código: Missão Python 🐍</h1>
 
