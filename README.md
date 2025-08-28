@@ -75,7 +75,7 @@ explorador = Explorador()
 explorador.evoluir()
 
 
-![Hacker divertido](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdseDdubWhhNTU5dGtzeGJra2h5aHZmM25heTFrZHRheWl0Mmx5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdseDdubWhhNTU5dGtzeGJra2h5aHZmM25heTFrZHRheWl0Mmx5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif">
 
 
  (| |)     
