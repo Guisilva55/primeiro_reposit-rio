@@ -1,5 +1,10 @@
 # primeiro_reposit-rio
-Olá
+👋 Boas-vindas, Viajante Intergaláctico!
+
+🎙️ Transmissão recebida...
+📡 Conexão estabelecida com o perfil de um Explorador em missão pelo universo da Programação.
+
+🪐 Você acaba de aterrissar no diário de bordo de um estudante ousado, determinado a dominar Python e explorar as galáxias da tecnologia.
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnN5Z2wyeHE5bjNlZmZtanpxMzR5aWNxemE3OWJ5ODFwZnE4d3BkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Descrição do GIF">
 
