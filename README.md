@@ -64,7 +64,7 @@
 ```python
 class Explorador:
     def __init__(self):
-        self.nome = "Seu Nome"
+        self.nome = "Guilherme da silva"
         self.missao = "Aprender Python e ingressar no mercado de tecnologia"
         self.status = "Em treinamento"
     
